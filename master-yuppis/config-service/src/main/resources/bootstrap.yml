@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/jcuba/yuppis-master.git
+          uri: https://github.com/jcuba/master-yuppis.git
           searchPaths: config-data
           username: ${GIT_USER}
           password: ${GIT_PASSWORD}
